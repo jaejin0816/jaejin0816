@@ -4,7 +4,8 @@
 <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
 <br>
 <hr>
-<font size=7>🔥🔥🔥My current goals🔥🔥🔥</font></br>
+### 🔥🔥🔥**My current goals**🔥🔥🔥
+</br>
 I'm interested in computer graphics and game making. <br>
 I don't know much yet, and I'm a beginner, so I'm looking for someone to study hard with. <br>
 I want to help each other and grow together. <br>
