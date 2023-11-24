@@ -11,3 +11,5 @@ I want to help each other and grow together. <br>
 Then, I want to work on a project to create a simple 3D game using DirectX11. <br>
 <br>
 If you are interested, please contact me via my email.
+<br>
+Email: wowls123455@gmail.com
